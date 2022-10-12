@@ -1,7 +1,6 @@
 # sysgard
 a simple schedule/event handler
 
-
 from multiprocessing import Queue
 from background_jobs import act_maintain
 
